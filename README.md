@@ -1,4 +1,4 @@
-# AUnitedFront
+# A United Front
 A United Front: A Corps for Crisis
 
 Created during the inagural run of the UCF Coding Bootcamp, this organiztion is a response to the massacre that happened in Orlando at Pulse nightclub on June 12, 2016. 
