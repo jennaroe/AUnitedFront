@@ -15,4 +15,4 @@ In coordination with the city and state governments, we plan to give order and p
 
 United Front members will recieve information for volunteer and donation oportunities as they happen and will be able to volunteer through our site. We look forward to seeing this group grow as those who want to use whatever skills they have to band together as A United Front. 
 
-Contact us at: BeAUnitedFront@gmail.com 
+Contact us at: teamPulseProject@gmail.com 
