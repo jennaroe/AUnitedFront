@@ -1,28 +1,131 @@
+
 .App {
   text-align: center;
+  height: 100%;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
+h2 {
+  text-align: center !important;
 }
+
+h4 {
+  text-decoration: underline;
+  text-decoration-color: #ECC253;
+}
+
+.App-nav {
+  background: rgba(249, 249, 249, 0.8);
+  height: 70px;
+  top: 0;
+  right: 0;
+  left: 0;
+  position: fixed;
+  z-index: 1;
+}
+
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+    }
+
+    li {
+      float: right;
+    }
+
+    li a {
+      display: block;
+      color: #0095a8;
+      text-align: center;
+      padding: 24px 16px;
+      text-decoration: none;
+    }
+
+    li a:hover {
+      background-color: #f9f9f9;
+      text-decoration: none;
+      color: #ECC253;
+      height: 70px;
+    }
+
+    .App-logo {
+      height: 70px;
+      float: left;
+      padding: 10px;
+    }
+
+    .App-title {
+      font-size: 2em;
+      color: #0095a8;
+      float: left;
+      padding: 15px 10px;
+    }
 
 .App-header {
-  background-color: #222;
-  height: 150px;
-  padding: 20px;
-  color: white;
+  background: url(./img/orlando_stock_image.jpg) center no-repeat;
+  height: 580px;
+  width: 100%;
+  color: #2C3E50;
+  margin-top: 5.5%;
 }
 
-.App-title {
-  font-size: 1.5em;
+    .App-intro {
+      font-size: 1.5em;
+      padding-top: 260px;
+      color: #fff;
+      font-weight: bold;
+      text-shadow: 2px 2px #000;
+    }
+
+    .btn {
+      background-color: #0095a8; 
+      border: #0095a8;
+    }
+
+    .btn:hover {
+      background-color: #00c3dc;
+    }
+
+    .btn:focus {
+      outline: none;
+    }
+
+    .btn-primary.focus, .btn-primary:focus {
+      box-shadow: none;
+    }
+
+
+.container-fluid {
+  margin-bottom: 5%;
 }
 
-.App-intro {
-  font-size: large;
+.col-lg-10 {
+  margin-left: 8%;
 }
 
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+.col-lg-5 {
+  margin-left: 6%;
+  text-align: justify;
 }
+
+.col-lg-12 a {
+  color: #6DBCDB;
+}
+
+.App-footer {
+  height: 90px;
+  background-color: #2C3E50;
+  color: #fff;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin-top: 5%;
+}
+
+  .App-footer p {
+    padding-top: 35px;
+  }
+
+
+
