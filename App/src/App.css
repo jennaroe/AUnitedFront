@@ -95,6 +95,40 @@ h4 {
       box-shadow: none;
     }
 
+.modal-header {
+  background-color: #0095a8;
+  color:#fff;
+  border-bottom-color: #ECC253;
+  border-bottom-width: 3px;
+}
+
+.modal-title {
+  text-decoration: none;  
+}
+
+.form-group {
+  text-align: left;
+}
+
+.close {
+  color:#ffffff;
+}
+
+  .close:hover {
+    color:#ffffff;
+  }
+
+.links {
+  color:#0095a8;
+  float:left;
+}
+  .links:hover {
+    color:#00c3dc;
+  }
+
+#submitmodal {
+  float:right;
+}
 
 .container-fluid {
   margin-bottom: 5%;
