@@ -78,6 +78,8 @@ h4 {
       text-shadow: 2px 2px #000;
     }
 
+    /* button styles */
+
     .btn {
       background-color: #0095a8; 
       border: #0095a8;
@@ -95,6 +97,10 @@ h4 {
       box-shadow: none;
     }
 
+    /*end button styles */
+
+ /*modal styles */
+
 .modal-header {
   background-color: #0095a8;
   color:#fff;
@@ -105,6 +111,8 @@ h4 {
 .modal-title {
   text-decoration: none;  
 }
+
+/*end modal styles */
 
 .form-group {
   text-align: left;
