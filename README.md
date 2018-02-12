@@ -1,5 +1,5 @@
-# Pulse Project
-Pulse Project: A Corps for Crisis
+# Local Corps
+Local Corps: A Corps for Crisis
 
 Created during the inaugural run of the UCF Coding Bootcamp, this organization is a response to the massacre that happened in Orlando at Pulse nightclub on June 12, 2016. 
 
@@ -11,6 +11,6 @@ This led the to creation of this organization.
 
 In coordination with the city and state governments, we plan to give order and purpose to those who desire to help when our cities are in crisis, Natural or Manmade.
 
-Pulse Project members will receive information for volunteer and donation opportunities as they happen and will be able to volunteer through our site. We look forward to seeing this group grow as those who want to use whatever skills they have to band together as a united front. 
+Local Corps members will receive information for volunteer and donation opportunities as they happen and will be able to volunteer through our site. We look forward to seeing this group grow as those who want to use whatever skills they have to band together as a united front. 
 
-Contact us at: teamPulseProject@gmail.com 
+Contact us at: localcorps@gmail.com 
